@@ -1,2 +1,2 @@
 # UAS_OS
-mEmbuat library sendiri dalam bahasa C
+membuat library sendiri dalam bahasa C
